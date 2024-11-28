@@ -28,5 +28,5 @@ sudo apt install python3-pip
 This script uses the `fontTools` library, which is typically included with Python 3. It should already be available in `/usr/lib/python3/dist-packages`. However, if needed, you can manually install the required dependencies by running:
 
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
